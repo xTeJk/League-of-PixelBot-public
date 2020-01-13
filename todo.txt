@@ -1,4 +1,0 @@
-﻿Skrócić runde 1-3 (usunąć pierwszy set biegania)
-Fix na kolejke itemów (inne pixele/czas)
-Fix na loop (zwiekszyc czas loopa, zmienic szanse na rozne aktywnosci, dodac % na pobieganie po mapie)
-Translacja i sprawdzanie języka w którym działa bot (config)
