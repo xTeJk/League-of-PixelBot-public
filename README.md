@@ -1,6 +1,6 @@
 # League of Pixelbot
 ## TFT EVENT TOKEN FARMING BOT
-Client resolution: 1280x720
+Client resolution: 1280x720  
 Game resolution: 1280x720 (windowed)
 
 # Gameplay
