@@ -1,6 +1,6 @@
 # League of Pixelbot
 TFT EVENT TOKEN FARMING BOT  
-[![Discord](https://img.shields.io/discord/370909694056726528.svg?style=flat&logo=discord)](https://discord.gg/8wT3GEQ)
+[![Discord](https://discordapp.com/api/guilds/370909694056726528/widget.png?style=shield)](https://discord.gg/jqbq85J)
 
 ## You have to set:
 Client resolution: 1280x720  
